@@ -1,5 +1,3 @@
-Sure! Here's a README file for your app:
-
 # Josh's Shoe Classifier
 
 This application is a shoe classifier that uses deep learning to predict the category of a shoe image. It leverages the DJL (Deep Java Library) framework and a pre-trained ResNetV1 model to perform image classification.
